@@ -26,8 +26,8 @@ def update(grid):
       if grid[i, j] == ON:  # Hacemos este if cuando la célula está viva
         if (total < 2) or (total > 3):
           newGrid[i, j] = OFF  # Muere por soledad o sobrepoblación
-        else:  #En caso de que la célula esté muerta se ejecuta este else
-          if total == 3: #Si hay 3 vivas al rededor de la célula muerta, revive
+      else:  #En caso de que la célula esté muerta se ejecuta este else
+        if total == 3: #Si hay 3 vivas al rededor de la célula muerta, revive
             newGrid[i, j] = ON
 
   return newGrid
