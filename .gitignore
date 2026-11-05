@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+.env/
+env/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Configuracion del editor y SO
+.vscode/
+.DS_Store
