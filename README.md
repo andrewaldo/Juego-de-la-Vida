@@ -28,7 +28,7 @@ El desarrollo del proyecto permitió integrar herramientas de desarrollo colabor
 El trabajo colaborativo permitio trabajar en conjunto para la resolucion de problemas durante el proyecto, asi como una gestion y organizacion para estructurar el proyecto.
 
 # Conclusiones Particulares
-* Andres (Lógica del Juego): [Breve reflexión sobre los retos al implementar las reglas y matrices].
+* Andres (Lógica del Juego): Implementar la lógica de un juego, por sencillo que sea, como lo es el Juego de la vida, y siendo nuestra primera vez trabajando como equipo en un entorno nuevo como lo es GitHub fue complicado. Aun así, la lógica detrás del juego no deja de ser sencilla y aunque lo es, es muy bonita y resulta satisfacotrio ver como al final, los elementos se fusionan en un trabajo limpio y sin errores.
 * Erik (Interfaz Gráfica): [Breve reflexión sobre el rendimiento visual y la experiencia de usuario en Streamlit].
 * Jose (Integración y Documentación):La gestión del repositorio permitió estructurar una base clara y estandarizada desde el inicio, facilitando el trabajo paralelo del equipo. El uso de ramas dedicadas y la revisión continua de Pull Requests fueron clave para prevenir y resolver conflictos de código de manera ordenada antes de integrar los cambios a la rama principal. Asimismo, mantener la documentación modular y actualizada en tiempo real aseguró la coherencia técnica del proyecto y facilitó la verificabilidad y reproducibilidad del sistema.
 
